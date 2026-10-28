@@ -1,0 +1,5 @@
+wix-export
+public
+node_modules
+scripts
+*.md

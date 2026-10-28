@@ -1,0 +1,389 @@
+{
+ "home-hero": {
+  "w": 1024,
+  "h": 576,
+  "widths": [
+   640,
+   1024
+  ],
+  "source": "a6419c_bbf050f5b503402c817123fbea9a2201~mv2.jpg"
+ },
+ "home-about": {
+  "w": 1685,
+  "h": 1120,
+  "widths": [
+   640,
+   1280,
+   1685
+  ],
+  "source": "a6419c_6e0c5315d756452a89eee2a7712ff026~mv2.png"
+ },
+ "home-duo-1": {
+  "w": 1813,
+  "h": 1360,
+  "widths": [
+   480,
+   960,
+   1280,
+   1813
+  ],
+  "source": "a6419c_3d67576d724a4a939c3a7b67cfcb28c2~mv2.jpg"
+ },
+ "home-duo-2": {
+  "w": 1024,
+  "h": 749,
+  "widths": [
+   480,
+   960,
+   1024
+  ],
+  "source": "a6419c_4a41583278cd4e678154274a80573511~mv2.jpg"
+ },
+ "gallery-01": {
+  "w": 945,
+  "h": 580,
+  "widths": [
+   480,
+   945
+  ],
+  "source": "a6419c_f6175ce795f1463582e711d33acdd9b8~mv2.jpg"
+ },
+ "gallery-02": {
+  "w": 2657,
+  "h": 2252,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_3cf1df9b9ef24622843849482b0708f5~mv2.png"
+ },
+ "gallery-03": {
+  "w": 2453,
+  "h": 2008,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_a1266c446f0c4016828fa52b4ded3e0b~mv2.png"
+ },
+ "gallery-04": {
+  "w": 1024,
+  "h": 683,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_3b3d822ee9fe41dfa86adb2ac8c1d5e4~mv2.jpg"
+ },
+ "gallery-05": {
+  "w": 1024,
+  "h": 629,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_d0480b1d3c2842e49ee6ff5a55f9bd78~mv2.jpg"
+ },
+ "gallery-06": {
+  "w": 1869,
+  "h": 2657,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_330a022ee6404cf1b04f8e9009b32565~mv2.png"
+ },
+ "contact-band": {
+  "w": 939,
+  "h": 576,
+  "widths": [
+   640,
+   939
+  ],
+  "source": "a6419c_4ae16c8182604397ad1a3990af9ab7b6~mv2.jpg"
+ },
+ "schedule-printable": {
+  "w": 1978,
+  "h": 1524,
+  "widths": [
+   1000,
+   1978
+  ],
+  "source": "a6419c_e17517622b03442885cdc152723f4bcb~mv2.png"
+ },
+ "classes-hero": {
+  "w": 1024,
+  "h": 806,
+  "widths": [
+   640,
+   1024
+  ],
+  "source": "a6419c_8e89839ea83c40899e6373fb97672dd0~mv2.jpg"
+ },
+ "class-bjj": {
+  "w": 2044,
+  "h": 1377,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_25e0642b5b334307ad99b363a891a304~mv2.png"
+ },
+ "class-no-gi": {
+  "w": 3024,
+  "h": 4032,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_ce5235fed5a54b15bfae0eb3c8635f15~mv2.jpg"
+ },
+ "class-muay-thai": {
+  "w": 2368,
+  "h": 2926,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_3af9ca78133c4a9c9c1df2ffc0ddb63b~mv2.jpg"
+ },
+ "class-kids": {
+  "w": 1170,
+  "h": 2532,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_d03bb230c0a04523afbd88ab1bdf24bd~mv2.jpg"
+ },
+ "class-strength": {
+  "w": 1170,
+  "h": 2532,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_b295dc536bce4546a0f2c7254af7cad3~mv2.jpg"
+ },
+ "classes-kids-group": {
+  "w": 4032,
+  "h": 3024,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_09c043d407064ebb97f9c5ac29f3a0a9~mv2.jpg"
+ },
+ "team-marcio-moreira": {
+  "w": 2910,
+  "h": 2743,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_609a01aa107f4d78b2c5798619ece164~mv2.jpg"
+ },
+ "team-jake-bohland": {
+  "w": 2942,
+  "h": 2725,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_6b96165da2554f5786f05803a9b527a8~mv2.jpg"
+ },
+ "team-jorge-baraibar": {
+  "w": 2992,
+  "h": 2770,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_7519c087e4f9477f8af5b6be904e331c~mv2.jpg"
+ },
+ "team-carlos-roa": {
+  "w": 2906,
+  "h": 2683,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_81ef9e9153a6442c8cc124dd0c57202f~mv2.jpg"
+ },
+ "team-kristian-go-williams": {
+  "w": 1440,
+  "h": 1440,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_082cd4bfcea746a48eb0d8c4317a5592~mv2.jpg"
+ },
+ "team-christian-alvarado": {
+  "w": 360,
+  "h": 519,
+  "widths": [
+   360
+  ],
+  "source": "a6419c_3e813b75b8f04f5d9c4d97e206db99c5~mv2.jpg"
+ },
+ "memberships-hero": {
+  "w": 2512,
+  "h": 2099,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_c7305e9a3fbd47ce9d9467c84f4c60a9~mv2.jpg"
+ },
+ "memberships-01": {
+  "w": 2044,
+  "h": 1150,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_ba639e113b894e2c93ca9e5d6699aa50~mv2.png"
+ },
+ "memberships-02": {
+  "w": 2299,
+  "h": 2955,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_768c05635b334062a22a77661ddbb39f~mv2.png"
+ },
+ "memberships-03": {
+  "w": 2044,
+  "h": 1150,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_807c11d61f5847e096c5785afccf379a~mv2.png"
+ },
+ "memberships-04": {
+  "w": 1679,
+  "h": 1079,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_05a00b9217a5463c8fe409d9e26ecf8b~mv2.jpg"
+ },
+ "memberships-05": {
+  "w": 2689,
+  "h": 2447,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_2025c0dbe65143d2958fbd804c909ad0~mv2.png"
+ },
+ "memberships-06": {
+  "w": 2044,
+  "h": 1150,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_0d8fbb28b796463f871a3f1e36bf8eec~mv2.png"
+ },
+ "intro-hero": {
+  "w": 2000,
+  "h": 1233,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_f082f0a9a000447a9d87575020a985f8~mv2.png"
+ },
+ "intro-01": {
+  "w": 1594,
+  "h": 1310,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_776fabdf71ba4cbf9eb06820c5051071~mv2.png"
+ },
+ "intro-03": {
+  "w": 2657,
+  "h": 1953,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_413e40caff9449d5a250eae9c2506cfe~mv2.png"
+ },
+ "event-womens-self-defense": {
+  "w": 1594,
+  "h": 943,
+  "widths": [
+   480,
+   960,
+   1280
+  ],
+  "source": "a6419c_692075c3d3814550a0f8e7d242603229~mv2.png"
+ },
+ "events-hero": {
+  "w": 2657,
+  "h": 1771,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_f180c2f004324236b0551b2f68cb3e42~mv2.png"
+ },
+ "event-kids-summer-camp": {
+  "w": 2150,
+  "h": 2139,
+  "widths": [
+   480,
+   960
+  ],
+  "source": "a6419c_8ea34c0f0e3340ab9b45ecda1b0e44ac~mv2.png"
+ },
+ "beginners-group": {
+  "w": 2657,
+  "h": 1656,
+  "widths": [
+   640,
+   1280,
+   1920
+  ],
+  "source": "a6419c_08006105fb8d4e07a291e414f0abbbd5~mv2.png"
+ },
+ "emblem": {
+  "w": 877,
+  "h": 822,
+  "widths": [
+   440,
+   877
+  ],
+  "source": "a6419c_6fc90a8d24d8489ea9325247624312a1~mv2.png"
+ },
+ "badge": {
+  "w": 800,
+  "h": 810,
+  "widths": [
+   256,
+   512
+  ],
+  "source": "a6419c_028cd643797a4e3184d274db22021516~mv2.png"
+ }
+}
